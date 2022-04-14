@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930350446174",
+    "project_id": "study-arena",
+    "storage_bucket": "study-arena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930350446174:android:6fd48481ee1bf15b7f66cf",
+        "android_client_info": {
+          "package_name": "com.example.sarena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930350446174-61qj793tnacu6u682en4ool7rucl1f9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarena",
+            "certificate_hash": "bd7421337f2f7fe0809ddf399b2a1e3083db8f2d"
+          }
+        },
+        {
+          "client_id": "930350446174-rk269vrdcuqkg5rij397e9saf8hd72kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvOfvecEJSUZeXKtlBm3PRfBC9tOSaAK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930350446174-rk269vrdcuqkg5rij397e9saf8hd72kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
